@@ -1,3 +1,21 @@
+# webview-go: Fork of webview/webview with tag naming
+
+Because I needed an older version of webview for a personal project, I've forked this so that I can (hopefully) use
+
+```
+go get gopkg.in/undecided/webview-go.v1
+```
+
+to get the minor version 0.1.0
+
+This is a nasty kludge, but given it's only a pet project, I don't feel too bad about it :D
+
+Version translation:
+
+v1 -> 0.1.0
+v2 -> 0.1.1 (current at time of writing)
+
+
 # webview
 
 [![Join the chat at https://gitter.im/zserge/webview](https://badges.gitter.im/zserge/webview.svg)](https://gitter.im/zserge/webview?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
